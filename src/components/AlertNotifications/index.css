@@ -1,0 +1,51 @@
+.bg_container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 1000px;
+  justify-content: center;
+  align-items: center;
+}
+.min_container {
+  background-color: blue;
+  height: 200px;
+  width: 800px;
+  display: flex;
+}
+.notification_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.notification_heading {
+  text-align: start;
+  margin: 20px;
+}
+.heading_success {
+  font-weight: bold;
+  color: #2dca73;
+}
+.heading_error {
+  font-weight: bold;
+  color: red;
+}
+.heading_warning {
+  font-weight: bold;
+  color: orange;
+}
+.heading_Info {
+  font-weight: bold;
+  color: blue;
+}
+.react_icons {
+  color: #2dca73;
+}
+.react_icons_error {
+  color: red;
+}
+.react_icons_Warning {
+  color: orange;
+}
+.react_icons_Info {
+  color: blue;
+}
